@@ -5,3 +5,8 @@
 - La linea de ejecución es:
 
     python a b
+    ejemplos :
+
+    python 2 3 
+    
+    8
