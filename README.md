@@ -7,6 +7,8 @@
     python a b
     ejemplos :
 
+    returna a^b
+
     python 2 3 
     
-    8
+    8 
