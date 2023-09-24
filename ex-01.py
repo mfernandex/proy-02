@@ -11,7 +11,7 @@ args = parser.parse_args()
 answer = args.x**args.y
 
 if args.quiet:
-    print(answer)
+    print("respuesta: ", answer)
 elif args.verbose:
     print(f"{args.x} to the power {args.y} equals {answer}")
 else:
